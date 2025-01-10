@@ -1,5 +1,4 @@
-
-class Pokemon {
+class pokemon {
     number;
     name;
     type;
